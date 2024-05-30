@@ -1,29 +1,10 @@
 # Deep Learning for Vertical Farm Leaf Health Classification
 
-## Overview
-
 The aim is to classify images of plants into healthy and unhealthy categories using CNNs
 
 ## Dataset
 
 The dataset used for this project can be found [here](https://drive.google.com/file/d/1llWCmIbaW-uHvZcD-soT8DJQJYmm8zAA/view?usp=drive_link).
-
-## Table of Contents
-
-1. [Data Preprocessing](#data-preprocessing)
-2. [Training](#training)
-   - [Transfer Learning](#transfer-learning)
-   - [Fine-Tuning](#fine-tuning)
-3. [Learning Rate Scheduler and Optimizer](#learning-rate-scheduler-and-optimizer)
-4. [Augmentation](#augmentation)
-   - [RandAugment](#randaugment)
-   - [Test Time Augmentation](#test-time-augmentation)
-5. [Performance Assessment and Further Optimization](#performance-assessment-and-further-optimization)
-6. [Files in the Repository](#files-in-the-repository)
-7. [Pre_Trained Model](#pre-trained-model)
-   - [Model Details](#model-details)
-   - [Access the Pre-trained Model](#access-the-pretrained-model)
-8. [References](#references)
 
 ## Data Preprocessing
 
