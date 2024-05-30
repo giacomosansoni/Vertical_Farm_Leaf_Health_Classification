@@ -28,10 +28,9 @@ The effectiveness of combining multiple architectures was studied (VGG16 and Mob
 ## Files in the Repository
 
 - **.gitattributes:** Git attributes file.
-- **Data Preprocessing.ipynb:** Jupyter Notebook containing code for data cleaning and preprocessing, including the removal of outliers and duplicates.
-- **Inference.ipynb:** Jupyter Notebook demonstrating model inference on the validation set, with plotting of the ROC curve and setting of the optimal threshold.
-- **Optimizers.ipynb:** Jupyter Notebook exploring and analyzing optimizers' performance, with a focus on their impact on the ConvNeXtLarge model.
+- **DataExploration.ipynb:** Jupyter Notebook containing code for data cleaning and preprocessing, including the removal of outliers and duplicates.
+- **VGG16 and Resnet50.ipynb:** Jupyter Notebook demonstrating the data augmentation and finetuning of VGG16 and Resnet50.
+- **FinalModel_Ensemble.ipynb:** Jupyter Notebook showing the final ensemble model.
 - **README.md:** Project's README file providing an overview and documentation.
-- **Training - with outputs.ipynb:** Jupyter Notebook for model training, including the loading of data, model initialization, transfer learning, and fine-tuning, with outputs included.
 - **report.pdf:** Detailed report outlining the project's workflow, methodologies, and results.
 
