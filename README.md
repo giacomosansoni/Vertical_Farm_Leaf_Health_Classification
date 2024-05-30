@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giacomosansoni/Vertical_Farm_Leaf_Health_Classification/blob/main/DataExploration.ipynb?authuser=1#scrollTo=ad3JyirN7Pv7)
+
